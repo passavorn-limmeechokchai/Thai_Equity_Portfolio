@@ -1,0 +1,6 @@
+strategy,historical_var_95_pct,historical_cvar_95_pct,cvar_tail_days,covid_ending_value_thb,covid_return_pct,covid_max_drawdown_pct
+EW,1.3023,2.4617,85,74.9808,-25.0192,-34.8522
+IV,1.2572,2.3682,85,75.8015,-24.1985,-33.9562
+MinVar,1.2651,2.1286,85,79.1543,-20.8457,-29.7703
+MaxSharpe,1.5502,2.5565,85,78.1271,-21.8729,-29.7282
+Benchmark,1.2097,2.1186,85,77.8588,-22.1412,-30.9237
